@@ -1,5 +1,6 @@
 # BARB_A_WATT_V2.0
 BARB-A-WATT 2.0 HF POWER/SWR MONITOR FOR QRP Transceivers.
+----------------------------------------------------------
 
 The Barb-A-Watt was designed by Barbaros Asuroglu WB2CBA (Aka ‘Barb’) as a companion measuring device for his QRP operations, and QRP project development. 
 
